@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <Wrapper>
       <div className="nav-center">
-        <span className="logo">Drink Master</span>
+        <span className="logo">CocktailQuery</span>
         <div className="nav-links">
           <NavLink to="/" className="nav-link">
             Home
